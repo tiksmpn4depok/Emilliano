@@ -1,0 +1,27 @@
+body {
+    /* background-color: blanchedalmond;font-family: Georgia, 'Times New Roman', Times, serif; */
+ background-image: url(https://www.google.com/imgres?q=sakura%20tree&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-psd%2Fpink-blossom-tree-stunning-display-spring_632498-25698.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fsakura-tree-png&docid=1SzbmUfpP6Z3-M&tbnid=jS-JXMbyEUXSxM&vet=12ahUKEwj9xe_Ave-TAxXAwjgGHUVwNLEQnPAOegQIMBAB..i&w=740&h=740&hcb=2&ved=2ahUKEwj9xe_Ave-TAxXAwjgGHUVwNLEQnPAOegQIMBAB);
+ background-repeat: no-repeat;
+ background-position: bottom right;
+}
+
+p {
+    text-align: justify;
+
+}
+
+.p1{
+    text-align: left;
+}
+.p2{
+    text-align: center;
+}
+.p3{
+    text-align: Right;
+}
+.p4{
+    Text-align: justify;
+    /* /* 1em = 16px * /
+    Text-indent: 2em; */
+}
+    
